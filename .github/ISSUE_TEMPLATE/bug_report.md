@@ -13,7 +13,7 @@ about: Report a bug
 **Observed behavior on SSSpigot**
 <!-- Tell us what is happening on SSSpigot -->
 
-**Observed behavior on Patina (cache/patched_1.16.5.jar) (if known)**
+**Observed behavior on Patina (you can find it in the `cache` directory, `cache/patched_1.16.5.jar`) (if known)**
 <!-- Tell us what is happening on Patina -->
 
 **Steps to reproduce (if known)**
