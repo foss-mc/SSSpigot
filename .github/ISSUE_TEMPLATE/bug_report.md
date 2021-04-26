@@ -4,6 +4,9 @@ about: Report a bug
 
 ---
 
+**Discord**
+<!-- Tell us your discord for sharing private data --> 
+
 **Expected behavior**
 <!-- Tell us what behavior is expected --> 
 
