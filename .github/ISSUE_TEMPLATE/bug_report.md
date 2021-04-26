@@ -18,7 +18,7 @@ about: Report a bug
      details are always useful -->
 
 **Installed plugins**
-<!-- Give us a screenshot of your /plugins -->
+<!-- Give us a screenshot or copy of your /plugins -->
 
 **Version**
 <!-- This can be seen by the output of /version . Just screenshot or copy that and give it to us -->
