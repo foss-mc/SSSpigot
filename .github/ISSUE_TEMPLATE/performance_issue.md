@@ -1,6 +1,7 @@
 ---
 name: Performance Issue
 about: Report a performance issue
+labels: performance, unconfirmed
 
 ---
 
