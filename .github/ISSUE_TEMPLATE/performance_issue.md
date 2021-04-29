@@ -12,8 +12,8 @@ about: Report a performance issue
 **Observed performance on SSSpigot**
 <!-- Tell us what is happening on SSSpigot -->
 
-**Observed performance on Patina (you can find it in the `cache` directory, `cache/patched_1.16.5.jar`) (if known)**
-<!-- Tell us what is happening on Patina -->
+**Observed performance on Patina (if known)**
+<!-- Tell us what is happening on Patina (you can find it in the `cache` directory, `cache/patched_1.16.5.jar`) -->
 
 **Observed performance on Paper and/or other Paper forks (if known)**
 <!-- (Optional) Tell us what is happening on Paper or other Paper forks -->
